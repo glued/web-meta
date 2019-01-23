@@ -1,10 +1,11 @@
 {
   "name": "web-meta",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "DOM + CSS metadata for autocomplete and validation applications",
   "main": "dist/web-meta.js",
   "license": "MIT",
-  "repository": "https://github.com/glued/web-meta",
+  "homepage": "https://github.com/glued/web-meta",
+  "repository": "https://github.com/glued/web-meta.git",
   "scripts": {
     "build": "webpack --mode production"
   },
