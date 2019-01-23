@@ -4,7 +4,7 @@ Data based on in [atom/autocomplete-css](https://github.com/atom/autocomplete-cs
 
 ## Install
 
-```js
+```
 npm i web-meta
 ```
 
