@@ -1,4 +1,6 @@
 # Web Meta
+<a href="https://www.npmjs.org/package/web-meta"><img src="https://img.shields.io/npm/v/web-meta.svg?style=flat" alt="npm"></a>
+
 
 Data based on [atom/autocomplete-css](https://github.com/atom/autocomplete-css), [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend/blob/master/front_end/sdk/CSSMetadata.js) and [adobe/brackets](https://github.com/adobe/brackets/blob/master/src/extensions/default/CSSCodeHints/CSSProperties.json)
 
