@@ -1,6 +1,6 @@
 # Web Meta
 
-Data based on in [atom/autocomplete-css](https://github.com/atom/autocomplete-css), [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend/blob/master/front_end/sdk/CSSMetadata.js) and [adobe/brackets](https://github.com/adobe/brackets/blob/master/src/extensions/default/CSSCodeHints/CSSProperties.json)
+Data based on [atom/autocomplete-css](https://github.com/atom/autocomplete-css), [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend/blob/master/front_end/sdk/CSSMetadata.js) and [adobe/brackets](https://github.com/adobe/brackets/blob/master/src/extensions/default/CSSCodeHints/CSSProperties.json)
 
 ## Install
 
